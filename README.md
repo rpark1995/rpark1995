@@ -2,10 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Troubleshooting</b>
 - <b>Active Directory Home Lab</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Certifications</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Google Cybersecurity Certificate Program](https://www.coursera.org/account/accomplishments/professional-cert/KMYR2AG49ET6)
+  - [Microsoft Windows Defender and Firewall for Beginners](https://www.coursera.org/account/accomplishments/verify/CWQ8HMF38MP2)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
