@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ross! <br/><h1>Self-taught Student</h1></h1>
+<h1>Hi, I'm Ross! <br/><h2>Self-taught Student</h2></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
