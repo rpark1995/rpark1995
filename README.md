@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ross! I'm a self-taught student, creating projects on my own to gain experience.</h1>
+<h1>Hi, I'm Ross!</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
